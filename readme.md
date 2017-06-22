@@ -1,3 +1,6 @@
+## A Store Manager web app
+Allows the user to add and edit stores with location (using Google Maps API), photo and tags. Also allows users to add reviews and generates top-rated stores based on average ratings.
+
 ## Deployed at
 
 https://store-manager-web-app.herokuapp.com/
