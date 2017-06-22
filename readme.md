@@ -1,6 +1,6 @@
-## What is this?
+## Deployed at
 
-Just you wait folks!
+https://store-manager-web-app.herokuapp.com/
 
 ## Sample Data
 
